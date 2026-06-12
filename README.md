@@ -12,6 +12,10 @@ anomaly detection and alerting.
 - Automated alert logging (CSV)
 - Visual dashboard showing parameter trends and flagged anomalies
 
+## Sample Output
+![Dashboard](process_dashboard.png)
+
+
 ## Tools Used
 - Python
 - Pandas
